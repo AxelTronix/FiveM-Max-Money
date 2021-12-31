@@ -10,7 +10,7 @@ This Script kicks people if they have over the selected amount (Which you can se
 ### Prerequisites
 
 Requirements 
-- None
+- ESX Server
 
 ### Installing
 
